@@ -1,0 +1,10 @@
+Package: cairo
+Version: 1.17.8
+Port-Version: 4
+Depends: dirent, expat, libpng, lzo, pixman, pthread, vcpkg-tool-meson, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 07f27cc65e5e7486dcf6def47e43e6df3293967498ae659b6e64398396bb5bf6
+Description: Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
+Default-Features: fontconfig, freetype
+Status: install ok half-installed

@@ -1,0 +1,9 @@
+Package: wxpython
+Version: 4.2.0
+Port-Version: 14
+Depends: python3, vcpkg-cmake, vcpkg-get-python-packages, wxwidgets
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2755f46124ffd28e83282be98a6a2aad629f8a7c32af7aba011d54b95ca5a8fe
+Description: Python library that allows creating wxWidget interfaces from python
+Status: install ok half-installed

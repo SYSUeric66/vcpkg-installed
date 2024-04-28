@@ -1,0 +1,9 @@
+Package: pixman
+Version: 0.42.2
+Port-Version: 2
+Depends: libpng, vcpkg-tool-meson
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f6255083c7509c7656d652fb1038b592ad443ee230fafc6eb7b9ae4b240c2fb5
+Description: Pixman is a low-level software library for pixel manipulation, providing features such as image compositing and trapezoid rasterization.
+Status: install ok installed

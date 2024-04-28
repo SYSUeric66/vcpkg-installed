@@ -1,0 +1,8 @@
+Package: boost-any
+Version: 1.83.0
+Depends: boost-assert, boost-config, boost-core, boost-static-assert, boost-throw-exception, boost-type-index, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f59dee27e9f2100e6113b8eba93ba605f3c9fadd1381ac2edf72aead2e31900c
+Description: Boost any module
+Status: install ok half-installed

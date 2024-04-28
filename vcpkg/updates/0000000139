@@ -1,0 +1,8 @@
+Package: boost-property-tree
+Version: 1.83.0
+Depends: boost-any, boost-assert, boost-bind, boost-config, boost-core, boost-format, boost-iterator, boost-mpl, boost-multi-index, boost-optional, boost-range, boost-serialization, boost-static-assert, boost-throw-exception, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 135897bd499821cb61e06731f03c1498c8491913a181f8cf69247da9e9884d63
+Description: Boost property_tree module
+Status: install ok installed

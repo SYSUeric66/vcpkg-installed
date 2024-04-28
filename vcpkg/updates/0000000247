@@ -1,0 +1,6 @@
+Package: libgit2
+Feature: winhttp
+Architecture: x64-windows
+Multi-Arch: same
+Description: SSL support (WinHTTP)
+Status: install ok half-installed

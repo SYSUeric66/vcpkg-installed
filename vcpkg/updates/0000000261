@@ -1,0 +1,6 @@
+Package: ngspice
+Feature: codemodels
+Architecture: x64-windows
+Multi-Arch: same
+Description: Adds optional code models for XSPICE, ADMS (verilog integration) and B-/E-/G- sources.
+Status: install ok installed

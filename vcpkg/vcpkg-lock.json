@@ -1,0 +1,8 @@
+{
+  "https://github.com/microsoft/vcpkg": {
+    "HEAD": "943c5ef1c8f6b5e6ced092b242c8299caae2ff01"
+  },
+  "https://gitlab.com/kicad/packaging/kicad-vcpkg-registry.git": {
+    "HEAD": "2c877ed563ef15d7e1c08b0c21817d2125eb37ca"
+  }
+}

@@ -1,0 +1,10 @@
+Package: libgit2
+Version: 1.6.4
+Port-Version: 1
+Depends: http-parser, vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e0974e7964b9c60b4293890baa2ef743a68d6bdfb39c4d81161059fb0c82b2bd
+Description: A C library implementing the Git core methods with a solid API
+Default-Features: pcre, ssl
+Status: install ok installed

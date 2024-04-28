@@ -1,0 +1,8 @@
+Package: boost-variant
+Version: 1.83.0
+Depends: boost-assert, boost-bind, boost-config, boost-container-hash, boost-core, boost-detail, boost-integer, boost-move, boost-mpl, boost-preprocessor, boost-static-assert, boost-throw-exception, boost-type-index, boost-type-traits, boost-utility, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 212cacce375bc9bf67256f6f2a2257e0b45e5753d6a885f2fb5b371bfdc95d7d
+Description: Boost variant module
+Status: install ok installed

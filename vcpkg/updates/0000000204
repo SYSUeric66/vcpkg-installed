@@ -1,0 +1,9 @@
+Package: lzo
+Version: 2.10
+Port-Version: 9
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b515bcb056a83e73a63b1d26cd59375264156322a09307ac7aeb8e30317b86be
+Description: Lossless data compression library
+Status: install ok half-installed

@@ -1,0 +1,6 @@
+Package: sqlite3
+Feature: fts5
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enable the FTS5 extension
+Status: install ok installed

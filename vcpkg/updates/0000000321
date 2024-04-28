@@ -1,0 +1,7 @@
+Package: wxwidgets
+Feature: webview
+Depends: webview2
+Architecture: x64-windows
+Multi-Arch: same
+Description: The Edge backend uses Microsoft's Edge WebView2
+Status: install ok installed

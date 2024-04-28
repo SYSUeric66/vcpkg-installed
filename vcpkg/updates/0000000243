@@ -1,0 +1,9 @@
+Package: http-parser
+Version: 2.9.4
+Port-Version: 3
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 10656056eec9b9f5312f814069e32cafcd93b44b2d2f48d60ff6d1cb1f5cb09f
+Description: HTTP Parser.
+Status: install ok installed

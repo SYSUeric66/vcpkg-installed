@@ -1,0 +1,7 @@
+Package: icu
+Version: 74.1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 8c9902350d4569a29db67adaf6c7827045f64d855712fc8fc56aa2eeaea9d959
+Description: Mature and widely used Unicode and localization library.
+Status: install ok half-installed

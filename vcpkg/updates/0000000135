@@ -1,0 +1,8 @@
+Package: boost-format
+Version: 1.83.0
+Depends: boost-assert, boost-config, boost-core, boost-optional, boost-smart-ptr, boost-throw-exception, boost-utility, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b638efa7b066e4f887d69a75b03b00f43d279d7e66bd6628a8f18b06a1fdbbea
+Description: Boost format module
+Status: install ok installed

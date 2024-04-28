@@ -1,0 +1,8 @@
+Package: boost-ratio
+Version: 1.83.0
+Depends: boost-config, boost-core, boost-integer, boost-mpl, boost-rational, boost-static-assert, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ba28ac772c1edec703bca262e46f90dd184b39d2d48a3041db5f1e4be46a07b5
+Description: Boost ratio module
+Status: install ok installed

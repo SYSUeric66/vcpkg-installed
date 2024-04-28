@@ -1,0 +1,6 @@
+Package: sqlite3
+Feature: session
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enable the SESSION extension
+Status: install ok installed

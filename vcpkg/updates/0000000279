@@ -1,0 +1,6 @@
+Package: sqlite3
+Feature: fts4
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enable the FTS4 extension
+Status: install ok installed

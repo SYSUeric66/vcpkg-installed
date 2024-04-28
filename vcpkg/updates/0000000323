@@ -1,0 +1,6 @@
+Package: vcpkg-get-python-packages
+Version: 2024-01-02
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d6539c8dbe357081b4a1e591a031cef9034ebdba2a49b56e61bb8717565209ce
+Status: install ok installed

@@ -1,0 +1,7 @@
+Package: opencascade
+Feature: rapidjson
+Depends: rapidjson
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enable optional usage of rapidjson
+Status: install ok installed

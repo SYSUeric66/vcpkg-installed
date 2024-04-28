@@ -1,0 +1,7 @@
+Package: libgit2
+Feature: pcre
+Depends: pcre
+Architecture: x64-windows
+Multi-Arch: same
+Description: Build against external libpcre
+Status: install ok installed

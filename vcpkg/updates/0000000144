@@ -1,0 +1,8 @@
+Package: boost-test
+Version: 1.83.0
+Depends: boost-algorithm, boost-assert, boost-bind, boost-build, boost-config, boost-core, boost-detail, boost-exception, boost-function, boost-io, boost-iterator, boost-modular-build-helper, boost-mpl, boost-numeric-conversion, boost-optional, boost-preprocessor, boost-smart-ptr, boost-static-assert, boost-type-traits, boost-utility, boost-vcpkg-helpers, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f8e3fa804d4128939015ef5dfd3ba9ab7febcbb75e835670c206d49f6be21a5d
+Description: Boost test module
+Status: install ok half-installed

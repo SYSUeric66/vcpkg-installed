@@ -1,0 +1,8 @@
+Package: opencascade
+Version: 7.7.1
+Depends: fontconfig, freetype, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ba920fe99f51060fc6d097e5cb861a5f1d6c53065a4d11840475f374d78f4620
+Description: Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+Status: install ok installed

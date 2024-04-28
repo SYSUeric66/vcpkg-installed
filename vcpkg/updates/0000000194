@@ -1,0 +1,9 @@
+Package: getopt
+Version: 0
+Port-Version: 3
+Depends: getopt-win32
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c2f3351d4967f5414281f472e3d30b79dd04b45422791a7f271e36e3d145c1c4
+Description: The getopt and getopt_long functions automate some of the chore involved in parsing typical unix command line options.
+Status: install ok half-installed

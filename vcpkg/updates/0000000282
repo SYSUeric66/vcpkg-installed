@@ -1,0 +1,6 @@
+Package: sqlite3
+Feature: rtree
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enable the RTREE extension
+Status: install ok installed
