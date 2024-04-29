@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/webview2-x64-windows-1.0.2088.41-21b8ede6-70dd-4fe4-8656-07433cd6431f",
+  "name": "webview2:x64-windows@1.0.2088.41 f1db08d8ae9cbe671a5f6848e2948869e51d292d59b89484855b138a6f488911",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-ac02a9f660977426b8ec6392919fbb1d51b10998"
+    ],
+    "created": "2024-03-04T13:43:12Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "webview2",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "1.0.2088.41",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@5cd32d80f7fd65a498507ca2de77f8ce5449dd30",
+      "homepage": "https://docs.microsoft.com/en-us/microsoft-edge/webview2",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "The WebView2 control allows you to embed web technologies (HTML, CSS, and JavaScript) using Microsoft Edge",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "webview2:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "f1db08d8ae9cbe671a5f6848e2948869e51d292d59b89484855b138a6f488911",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "microsoft.web.webview2.${VERSION}.zip",
+      "packageFileName": "microsoft.web.webview2.${VERSION}.zip",
+      "downloadLocation": "https://www.nuget.org/api/v2/package/Microsoft.Web.WebView2/${VERSION}",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "59d2293d2becb03ed99ab0a70a753adf49d998294d318d331047c2ec7c7dcb163ed84a09ab35765873c2364c3367a8033e2b1a5ad52c5b8e99f8d7a69b8e915e"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/ws/AppData/Local/vcpkg/registries/git-trees/5cd32d80f7fd65a498507ca2de77f8ce5449dd30/portfile.cmake",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "65f075c9876ad37a27935d21a4bf7814e96113e7df492454cd6b6a384a30ee66"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/ws/AppData/Local/vcpkg/registries/git-trees/5cd32d80f7fd65a498507ca2de77f8ce5449dd30/unofficial-webview2-config.cmake",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a7e6ca0cac94c59fc255a55c70ea5f30e20fd57972ddb4e392deb7933a1b4f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/ws/AppData/Local/vcpkg/registries/git-trees/5cd32d80f7fd65a498507ca2de77f8ce5449dd30/vcpkg.json",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5efc4381b2a4f484681dea9a12fb4cf53eebea71fd1801dbda7a26af1b7ea87"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}
